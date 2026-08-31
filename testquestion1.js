@@ -8,7 +8,7 @@ function draw(){
     fill("black")
     stroke("red")
     strokeWeight(10)
-    triangle(240,100,250,300,350,200)
+    triangle(240,100,250,300,350,100)
     fill("black")
     stroke("red")
     strokeWeight(10)
