@@ -3,5 +3,5 @@ function setup(){
 
 }
 function draw(){
-    circle(200,200,100)
+    circle(400,200,50)
 }
