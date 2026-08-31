@@ -4,7 +4,7 @@ function setup(){
 
 }
 function draw(){
-    circle(400,200,130)
+    circle(100,250,130)
     fill("black")
     stroke("red")
     strokeWeight(10)
