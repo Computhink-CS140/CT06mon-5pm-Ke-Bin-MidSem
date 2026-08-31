@@ -1,6 +1,6 @@
 function setup(){
     createCanvas(600,400);
-    fill("black")
+    
 
 }
 function draw(){
@@ -8,4 +8,5 @@ function draw(){
     fill("black")
     stroke("red")
     strokeWeight(10)
+    
 }
