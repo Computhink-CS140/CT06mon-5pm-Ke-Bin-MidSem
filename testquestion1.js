@@ -12,7 +12,7 @@ function draw(){
     fill("black")
     stroke("red")
     strokeWeight(10)
-    square()
+    square(100,100,200,200)
     fill("black")
     stroke("red")
     strokeWeight(10)
