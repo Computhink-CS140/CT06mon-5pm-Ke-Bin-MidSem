@@ -4,7 +4,7 @@ function setup(){
 
 }
 function draw(){
-    for(let circle = 1;circle < 11; circle++){
-        print(circle)
-    }
+    for (let count = 1; count < 6; count++) {
+    print(count);
+}
 }
