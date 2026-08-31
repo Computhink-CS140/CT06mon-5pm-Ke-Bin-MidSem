@@ -5,6 +5,6 @@ function setup(){
 }
 function draw(){
     for(let circle = 1;circle < 11; circle++){
-        circle(200,200,50)
+        print(circle)
     }
 }
