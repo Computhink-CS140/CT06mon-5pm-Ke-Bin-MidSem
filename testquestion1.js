@@ -12,4 +12,5 @@ function draw(){
     fill("black")
     stroke("red")
     strokeWeight(10)
+    
 }
