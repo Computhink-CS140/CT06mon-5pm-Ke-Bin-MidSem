@@ -4,7 +4,7 @@ function setup(){
 
 }
 function draw(){
-    for (let count = 1; count < 10; count++) {
-    print(circle);
+    for (let count = 0; count < 10; count++) {
+        circle(50+count*25,50+i*25,25));
     }
 }
